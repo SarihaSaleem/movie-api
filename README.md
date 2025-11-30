@@ -32,10 +32,10 @@ node server.js
 Runs on: http://localhost:3000
 
 ## Deployment
-Render URL: 
+Render URL: srv-d4m06bk9c44c73foql5g
 
 ## GitHub Repository
-
+https://github.com/SarihaSaleem/movie-api.git
 
 ## Required Submission Screenshots
 - POST request
